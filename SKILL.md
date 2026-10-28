@@ -5,6 +5,8 @@ description: Set up QymCAD (an open-source parametric CAD on OpenCASCADE) with i
 
 # QymCAD assistant
 
+**English** · [Русский](SKILL.ru.md)
+
 QymCAD is a desktop parametric CAD (Rust, OpenCASCADE 7.9.3). The branch
 `feat/ai-assistant` of `rockman256s/QymCAD` adds:
 

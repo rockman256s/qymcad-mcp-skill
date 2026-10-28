@@ -1,5 +1,7 @@
 # qymcad-mcp-skill
 
+**English** · [Русский](README.ru.md)
+
 A skill for AI agents (Claude Code, Claude Desktop, any agent that reads `SKILL.md`)
 to set up **[QymCAD](https://github.com/QymIs-Tech/QymCAD)** with its AI-assistant MCP server
 and to model parts in a live QymCAD window - the agent makes every step in the
@@ -15,6 +17,7 @@ project. Until it is merged, the live mode needs a build from that branch.
 | File | What it is |
 | --- | --- |
 | [`SKILL.md`](SKILL.md) | The skill: how to set everything up and how to model with the tools |
+| [`SKILL.ru.md`](SKILL.ru.md) | The same skill in Russian, for people |
 | [`scripts/setup-windows.ps1`](scripts/setup-windows.ps1) | One script for Windows: toolchain, OCCT 7.9.3, build, install, MCP registration |
 
 ## Message to an agent
